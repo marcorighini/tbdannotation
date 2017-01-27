@@ -1,0 +1,9 @@
+[submodule "deps/opencv"]
+	path = deps/opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "deps/opencv_contrib"]
+	path = deps/opencv_contrib
+	url = https://github.com/opencv/opencv_contrib.git
+[submodule "deps/boost"]
+	path = deps/boost
+	url = https://github.com/boostorg/boost.git
